@@ -1,2 +1,2 @@
 # merge-conflict-practice
-# fourth-branch
+# merge-conflict-practice-resolved-conflict
